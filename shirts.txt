@@ -3,22 +3,22 @@
   {
     "id":"1",
     "price":"200",
-    "color":"yellow",
-   
+    "color":"yellow"
+
   },
   {
     "id":"2",
-    "price":"300,
-    "color":"blue",
+    "price":"300",
+    "color":"blue"
   },
   {
     "id":"3",
-    "price":"400,
-    "color":"red",
+    "price":"400",
+    "color":"red"
   },
   {
-   "id":"4",
+    "id":"4",
     "price":"200",
-    "color":"green",
+    "color":"green"
   }
 ]
